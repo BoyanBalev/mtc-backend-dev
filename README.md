@@ -1,2 +1,2 @@
-# mtc-backend-dev
-python code for the terraform course
+#This is a dev env for python
+The owner is Boyan Balev 
